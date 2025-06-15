@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dinuwaa Muthumaldeniya</h1>
+<h1 align="center">Hi 👋, I'm Dinuwara Muthumaldeniya</h1>
 <h3 align="center">A passionate developer from Srilanka</h3>
 
 - 🔭 I’m currently working on **Coupex-A smart system for an online marketplace**
